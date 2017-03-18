@@ -1,6 +1,0 @@
-com/myproject/todo/repository/TodoRepository.class
-com/myproject/todo/TodoListApp.class
-com/myproject/todo/entity/Todo.class
-com/myproject/todo/dto/TodoDTO.class
-com/myproject/todo/controller/TodoController.class
-com/myproject/todo/service/TodoService.class
